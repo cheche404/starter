@@ -18,6 +18,7 @@
 
   <modules>
     <module>lru-spring-boot-starter</module>
+    <module>consul-spring-boot-starter</module>
   </modules>
 
   <properties>
