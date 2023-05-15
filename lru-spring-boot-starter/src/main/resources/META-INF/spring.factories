@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-    com.cheche.lru.LRUAutoConfiguration
+    com.cheche.kafka.lru.LRUAutoConfiguration

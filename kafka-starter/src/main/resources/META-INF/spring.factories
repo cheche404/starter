@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-    com.cheche.kafka.consul.config.ConsulConfig
+  com.cheche.kafka.configuration.KafkaStarterAutoConfiguration

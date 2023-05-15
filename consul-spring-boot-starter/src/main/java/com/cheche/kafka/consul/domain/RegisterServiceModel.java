@@ -1,4 +1,4 @@
-package com.cheche.consul.domain;
+package com.cheche.kafka.consul.domain;
 
 import com.orbitz.consul.model.agent.ImmutableRegCheck;
 
