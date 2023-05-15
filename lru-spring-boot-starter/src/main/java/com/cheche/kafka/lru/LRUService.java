@@ -1,4 +1,4 @@
-package com.cheche.lru;
+package com.cheche.kafka.lru;
 
 import java.util.HashMap;
 import java.util.LinkedList;

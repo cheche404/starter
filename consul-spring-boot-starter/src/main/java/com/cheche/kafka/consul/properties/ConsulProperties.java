@@ -1,4 +1,4 @@
-package com.cheche.consul.properties;
+package com.cheche.kafka.consul.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

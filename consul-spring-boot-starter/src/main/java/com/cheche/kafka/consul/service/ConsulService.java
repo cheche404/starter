@@ -1,6 +1,6 @@
-package com.cheche.consul.service;
+package com.cheche.kafka.consul.service;
 
-import com.cheche.consul.domain.RegisterServiceModel;
+import com.cheche.kafka.consul.domain.RegisterServiceModel;
 import com.orbitz.consul.model.health.Service;
 import com.orbitz.consul.model.health.ServiceHealth;
 

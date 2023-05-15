@@ -1,4 +1,4 @@
-package com.cheche.lru;
+package com.cheche.kafka.lru;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

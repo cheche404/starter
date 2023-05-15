@@ -1,6 +1,6 @@
-package com.cheche.consul.config;
+package com.cheche.kafka.consul.config;
 
-import com.cheche.consul.properties.ConsulProperties;
+import com.cheche.kafka.consul.properties.ConsulProperties;
 import com.google.common.net.HostAndPort;
 import com.orbitz.consul.AgentClient;
 import com.orbitz.consul.Consul;

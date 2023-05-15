@@ -1,7 +1,7 @@
-package com.cheche.consul.service.impl;
+package com.cheche.kafka.consul.service.impl;
 
-import com.cheche.consul.service.ConsulService;
-import com.cheche.consul.domain.RegisterServiceModel;
+import com.cheche.kafka.consul.service.ConsulService;
+import com.cheche.kafka.consul.domain.RegisterServiceModel;
 import com.orbitz.consul.AgentClient;
 import com.orbitz.consul.HealthClient;
 import com.orbitz.consul.model.agent.ImmutableRegistration;

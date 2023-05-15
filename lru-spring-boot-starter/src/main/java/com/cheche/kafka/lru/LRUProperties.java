@@ -1,4 +1,4 @@
-package com.cheche.lru;
+package com.cheche.kafka.lru;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
